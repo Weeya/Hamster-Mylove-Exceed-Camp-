@@ -1,0 +1,9 @@
+ฝั่งanalog IN A อ่านได้อย่างเดียว
+ฝั่ง Digital อ่านเขียนได้ บางขาอ่านanalogได้
+
+5V 1023(read) 255(write)
+0V 0(read) 0(write)
+
+white Pin
+red Vol VCC(5V)
+black GND
